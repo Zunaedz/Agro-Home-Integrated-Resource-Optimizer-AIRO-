@@ -173,6 +173,6 @@ Future development opportunities include:
 
 # Conclusion
 
-The AIRO project demonstrates how Artificial Intelligence can be used to create smart and sustainable living environments by optimizing resource allocation between homes and agricultural systems.
+The AIRO project demonstrates how Artificial Intelligence can be used to create smart and sustainable living environments by optimizing resource allocation between homes and agricultural systems for good.
 
 The project combines weather forecasting, AI optimization algorithms, and simulation techniques to reduce waste, minimize costs, and improve overall efficiency. AIRO highlights the potential of intelligent systems in future sustainable resource management solutions.
