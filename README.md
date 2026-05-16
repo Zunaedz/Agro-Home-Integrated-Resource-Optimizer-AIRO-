@@ -1,10 +1,10 @@
-# AIRO – Agro-Home Integrated Resource Optimizer
+#  AIRO – Agro-Home Integrated Resource Optimizer
 
-## AI-Based Multi-Objective Optimization for Smart Sustainable Living
+##  AI-Based Multi-Objective Optimization for Smart Sustainable Living
 
 ---
 
-##  Project Overview
+### Project Overview
 
 The Agro-Home Integrated Resource Optimizer (AIRO) is an AI-based simulation and optimization system designed to efficiently manage and distribute critical resources such as Electricity, Water, and Gas between a residential home and a nearby agricultural farm.
 
