@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Agro-Home Integrated Resource Optimizer (AIRO) is an AI-based simulation and optimization system designed to efficiently manage and distribute critical resources such as Electricity, Water, and Gas between a residential home and a nearby agricultural farm.
 
@@ -19,7 +19,7 @@ The project focuses on:
 
 ---
 
-# ❗ Problem Statement
+#  Problem Statement
 
 Modern homes and agricultural systems consume a large amount of electricity, water, and gas. However, most resource management systems operate independently without considering environmental conditions or overall efficiency.
 
@@ -38,7 +38,7 @@ AIRO addresses these problems by creating a unified optimization system influenc
 
 ---
 
-# ✨ Main Features
+#  Main Features
 
 ## Smart Resource Allocation
 Distributes electricity, water, and gas efficiently between home and farm environments.
@@ -60,7 +60,7 @@ Reduces overall operational expenses by minimizing unnecessary consumption.
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 ## Programming Language
 - Python
@@ -85,7 +85,7 @@ Hill Climbing performs quick local optimization and is mainly used for real-time
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 The project uses simulated datasets generated from weather conditions and resource consumption models.
 
@@ -109,7 +109,7 @@ Before running optimization algorithms, the data is processed using:
 
 ---
 
-# ⚙️ Methodology / Workflow
+#  Methodology / Workflow
 
 The workflow of AIRO follows several important steps:
 
@@ -122,7 +122,7 @@ The workflow of AIRO follows several important steps:
 
 ---
 
-# 📊 Comparative Analysis
+#  Comparative Analysis
 
 | Metric | A* Search | Simulated Annealing | Hill Climbing |
 |---|---|---|---|
@@ -133,7 +133,7 @@ The workflow of AIRO follows several important steps:
 
 ---
 
-# 📈 Result Analysis
+#  Result Analysis
 
 The project successfully demonstrates that AI-based optimization can significantly improve sustainable resource management.
 
@@ -157,7 +157,7 @@ Extremely fast and suitable for real-time optimization, though it may become stu
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Future development opportunities include:
 - IoT sensor integration
@@ -167,26 +167,11 @@ Future development opportunities include:
 - Smart battery optimization
 - Real-world deployment using smart devices
 
----
 
-# 👥 Team Members
 
-| Name | Student ID |
-|---|---|
-| Your Name | Your ID |
-| Member 2 | ID |
-| Member 3 | ID |
-| Member 4 | ID |
 
----
 
-# 📄 Project Presentation
-
-[Project Presentation](./AIRO_Project_Presentation.pptx)
-
----
-
-# 📜 Conclusion
+# Conclusion
 
 The AIRO project demonstrates how Artificial Intelligence can be used to create smart and sustainable living environments by optimizing resource allocation between homes and agricultural systems.
 
